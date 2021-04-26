@@ -1,0 +1,55 @@
+body {
+  background-color: #4912f6;
+  font-color: white;
+  color: white
+}
+
+.conatiner{
+  margin-left: 10PX;
+}
+
+.section-1{
+  display: flex;
+  align-items: center;
+}
+
+a {
+  color: white;
+}
+
+input[type='button']{
+  border-radius: 20px;
+  font-weight: bold;
+  color: white;
+  padding: 10px 25px;
+  border: 0px;
+  background: rgb(237,220,149);
+  background: linear-gradient(90deg, rgba(237,220,149,1) 4%, rgba(235,171,12,1) 100%);
+  }
+
+.section-2{
+  display: flex;
+  align-items: center;
+  padding-top: 50px;
+}
+
+.gifpicture{
+
+}
+
+.section-3{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 100px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.patented{
+  margin-right: 140px;
+}
+
+.testedbrain{
+    margin-right: 40px;
+}
